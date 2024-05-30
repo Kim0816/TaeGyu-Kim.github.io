@@ -40,6 +40,10 @@ div.item {
 #SubHead{
     font-size: 30px; font-style:initial;
 }
+#About{
+    font-size: 30px; font-style:initial;
+    text-align: center;
+}
 
 @media (min-width: 768px) {
     article {
